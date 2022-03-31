@@ -1,7 +1,6 @@
-### Hi there 👋
-# Welcome!
+# Welcome!  👋
 
-Hi! My name is Tiago Lemos Neitzke  
+My name is Tiago Lemos Neitzke  
 
 # I'm I’m currently learning technologies for front end: HTML, CSS, JavaScript and Vue.js
 I'm like to learn new technologies and face new challenges. I'm switching careers at the age of 35, it hasn't been easy, but I'm sure I'll make it. There are many things to learn, but every day I feel more confident in my learning.
