@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**TiagoLemosNeitzke/TiagoLemosNeitzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome!
 
 Hi! My name is Tiago Lemos Neitzke  
@@ -16,3 +12,8 @@ Maybe you'll find mistakes in my English, well, I don't speak English, but I'm s
 ## 📫 How to reach me:
 
 [Instagram](https://www.instagram.com/tiagolemosneitzke/)
+
+
+<!--
+**TiagoLemosNeitzke/TiagoLemosNeitzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
