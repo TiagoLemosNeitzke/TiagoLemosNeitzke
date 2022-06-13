@@ -1,13 +1,14 @@
 # Welcome!  👋
 
-My name is Tiago Lemos Neitzke  
+My name is Tiago Lemos Neitzke
+I am web developer. 
 
 # Some technologies I already know:
-:computer: HTML => I can create a page with semantic structure. <br />
-:computer: CSS => I can apply style in page, used Less or simply CSS and create animation<br />
-:computer: JavaScript => In javaScript I can create functions, DOM manipulation, event, apply style, etc. I also know how to use Jquery.<br />
-:computer: PHP => I understand how to create $_SESSION, communication with database, tables, manipulation of DOM elements, etc.<br />
-:computer: MySQL => I can create database, tables, using query.<br /><br/>
+:computer: HTML | CSS | JavaScript | PHP | MySQL 
+
+# Some frameworks I already know:
+:computer: Bootstrap | Jquery | Laravel | Less
+
 **Of course these are just a few things I know how to do. I keep studying and to improve my knowledge.** <br/>
 >*"Show me a accommodated man and I'll show you a loser".* (Thomas Edison)
 
