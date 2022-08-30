@@ -4,10 +4,10 @@ My name is Tiago Lemos Neitzke <br>
 I am web developer. 
 
 # Some technologies I already know:
-:computer: HTML | CSS | JavaScript | PHP | MySQL 
+:computer: HTML | CSS | JavaScript | PHP | MySQL | Redis
 
-# Some frameworks I already know:
-:computer: Bootstrap | Jquery | Laravel | Less
+# I have knowledge in:
+:computer: Bootstrap | Jquery | Laravel | Vuejs | Api Rest | Ajax | Git
 
 **Of course these are just a few things I know how to do. I keep studying and to improve my knowledge.** <br/>
 >*"Show me a accommodated man and I'll show you a loser".* (Thomas Edison)
