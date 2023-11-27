@@ -1,13 +1,11 @@
 # Welcome!  👋
 
 My name is Tiago Lemos Neitzke <br>
-I am web developer PHP | Laravel. 
+I am Software Engeneer. 
 
-# Some technologies I already know:
-:computer: HTML | CSS | PHP | MySQL | Redis
-
-# I also have knowledge in:
-:computer: Laravel | Bootstrap | TailwindCss | Api Rest | Git | Docker
+# Some technologies that I work:
+:computer: HTML | CSS | Javascript | PHP | MySQL | Redis
+:computer: VueJs | Laravel | Bootstrap | TailwindCss | Api Rest | Git | Docker
 
 **Of course these are just a few things I know how to do. I keep studying and to improve my knowledge.** <br/>
 >*"Show me a accommodated man and I'll show you a loser".* (Thomas Edison)
