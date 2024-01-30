@@ -1,21 +1,22 @@
-# Welcome!  👋
+# Bem-vindo! 👋
 
-My name is Tiago Lemos Neitzke <br>
-I am Software Engeneer. 
+Olá, sou **Tiago Lemos Neitzke**, um engenheiro de software dedicado e apaixonado.
 
-# Some technologies that I work:
-:computer: HTML | CSS | Javascript | PHP | MySQL | Redis <br/>
-:computer: VueJs | Laravel | Bootstrap | TailwindCss | Api Rest | Git | Docker
+## 🚀 Tecnologias que domino:
+Trabalho com uma variedade de tecnologias para desenvolver soluções eficientes e inovadoras:
 
-**Of course these are just a few things I know how to do. I keep studying and to improve my knowledge.** <br/>
->*"Show me a accommodated man and I'll show you a loser".* (Thomas Edison)
+- Front-end: HTML, CSS, JavaScript, VueJs, Bootstrap, TailwindCss
+- Back-end: PHP, Laravel, MySQL
+- Infraestrutura: Redis, Docker
+- Outros: API Rest, Git
 
+Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Acredito firmemente que um profissional nunca deve se acomodar, como disse Thomas Edison: *"Mostre-me um homem acomodado e eu lhe mostrarei um perdedor".*
 
-## 📫 How to reach me:
+## 📫 Como entrar em contato comigo:
 
-[Linkedin](https://www.linkedin.com/in/tiago-lemos-neitzke-916353247/)
-
+Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/tiago-lemos-neitzke-916353247/). Estou sempre aberto a novas oportunidades e colaborações.
 
 <!--
-**TiagoLemosNeitzke/TiagoLemosNeitzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**TiagoLemosNeitzke/TiagoLemosNeitzke** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+```
+Espero que isso ajude a destacar seu perfil do GitHub. Lembre-se, a chave para um perfil de GitHub eficaz é mantê-lo atualizado com seus projetos e realizações mais recentes. Boa sorte! 😊
