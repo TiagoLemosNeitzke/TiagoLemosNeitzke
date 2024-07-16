@@ -1,3 +1,4 @@
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLemosNeitzke&layout=compact&theme=dracula)
 # Bem-vindo! 👋
 
 Olá, sou **Tiago Lemos Neitzke**, um engenheiro de software dedicado e apaixonado.
