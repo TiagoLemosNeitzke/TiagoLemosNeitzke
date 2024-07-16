@@ -5,7 +5,7 @@ Olá, sou **Tiago Lemos Neitzke**, um engenheiro de software dedicado e apaixona
 ## 🚀 Tecnologias que domino:
 Trabalho com uma variedade de tecnologias para desenvolver soluções eficientes e inovadoras:
 <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/PHP-%20?style=flat-square&logo=php&logoColor=white&color=811100" height="16" />
+  <img src="https://img.shields.io/badge/PHP-%20?style=flat-square&logo=php&logoColor=white&color=811100" height="32" />
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=5f0d14" height="16" />
   <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
