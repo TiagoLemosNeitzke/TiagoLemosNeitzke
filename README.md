@@ -1,4 +1,3 @@
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLemosNeitzke&layout=compact&theme=dracula)
 # Bem-vindo! 👋
 
 Olá, sou **Tiago Lemos Neitzke**, um engenheiro de software dedicado e apaixonado.
@@ -6,10 +5,7 @@ Olá, sou **Tiago Lemos Neitzke**, um engenheiro de software dedicado e apaixona
 ## 🚀 Tecnologias que domino:
 Trabalho com uma variedade de tecnologias para desenvolver soluções eficientes e inovadoras:
 
-- Front-end: HTML, CSS, JavaScript, VueJs, Bootstrap, TailwindCss
-- Back-end: PHP, Laravel, MySQL
-- Infraestrutura: Redis, Docker
-- Outros: API Rest, Git
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLemosNeitzke&layout=compact&theme=dracula)
 
 Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Acredito firmemente que um profissional nunca deve se acomodar, como disse Thomas Edison: *"Mostre-me um homem acomodado e eu lhe mostrarei um perdedor".*
 
