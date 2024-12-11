@@ -46,6 +46,7 @@ Sou especialista em engenharia de software, com experiência em diversas tecnolo
 <div>
   <p>Solução para comunicação eficiente com clientes, integrando ferramentas modernas de chat e atendimento.</p>
 </div>
+
 ---
 
 ## 📊 Estatísticas GitHub
