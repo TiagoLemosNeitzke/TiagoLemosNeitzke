@@ -37,14 +37,9 @@ Sou especialista em engenharia de software, com experiência em diversas tecnolo
   <p>Plataforma gratuita para gestão de Microempreendedores Individuais (MEIs), com funcionalidades como agendamento, controle de notas fiscais e gerenciamento de clientes.</p>
 </div>
 
-### [Meu site oficial](https://www.tiagoneitzke.com.br)
+### [Meu site oficial](https://www.link4ti.com.br)
 <div>
   <p>Descubra mais sobre meus serviços e projetos de desenvolvimento de software, sites e aplicativos.</p>
-</div>
-
-### [Chattnes](https://chat.tiagoneitzke.com.br)
-<div>
-  <p>Solução para comunicação eficiente com clientes, integrando ferramentas modernas de chat e atendimento.</p>
 </div>
 
 ---
