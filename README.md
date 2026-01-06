@@ -7,8 +7,6 @@ Transformo problemas operacionais em soluções tecnológicas simples, escaláve
 
 > *"Mostre-me um homem acomodado e eu lhe mostrarei um perdedor."* — Thomas Edison
 
----
-
 ## ⚙️ Stack
 
 <p>
@@ -28,16 +26,12 @@ Transformo problemas operacionais em soluções tecnológicas simples, escaláve
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
----
-
 ## 🧠 Perfil Técnico
 
 - Foco em **arquitetura limpa e código sustentável**
 - Experiência com **produtos em produção**, usados por usuários reais
 - Backend sólido e frontends modernos
 - Mentalidade orientada a **negócio, clareza e automação**
-
----
 
 ## 🚀 Deploy & Infraestrutura
 
@@ -46,8 +40,6 @@ Transformo problemas operacionais em soluções tecnológicas simples, escaláve
 - Uso de Docker para padronização de ambientes
 - Integração com serviços de DNS, e-mail e cache
 - Manutenção e resolução de problemas em produção
-
----
 
 ## 🚀 Projetos
 
@@ -62,8 +54,6 @@ Plataforma gratuita para Microempreendedores Individuais (MEI), com foco em:
 - Controle de contas a pagar e receber
 - Agendamentos
 
----
-
 ### **Conta Fácil**
 
 🔗 https://contafacil.ia.br
@@ -71,16 +61,12 @@ Plataforma gratuita para Microempreendedores Individuais (MEI), com foco em:
 Atuação como engenheiro de software no desenvolvimento do sistema, com foco em organização financeira e 
 simplificação do controle e visualização de informações financeiras no dia a dia.
 
----
-
 ### **iSeeFinances**
 
 🔗 https://iseefinances.com.br
 
 articipação no desenvolvimento como engenheiro de software, contribuindo para a visualização e organização de dados financeiros, 
 com foco em clareza, análise e tomada de decisão.
-
----
 
 ### **Site Oficial / Serviços**
 
@@ -91,8 +77,6 @@ Portal institucional para apresentação de serviços e projetos em:
 - Desenvolvimento de software
 - Sites
 - Aplicativos
-
----
 
 ## 📫 Contato
 
@@ -107,7 +91,5 @@ Portal institucional para apresentação de serviços e projetos em:
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 **Aberto a parcerias, novos projetos e boas discussões técnicas.**
