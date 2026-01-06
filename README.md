@@ -65,18 +65,15 @@ simplificação do controle e visualização de informações financeiras no dia
 
 🔗 https://iseefinances.com.br
 
-articipação no desenvolvimento como engenheiro de software, contribuindo para a visualização e organização de dados financeiros, 
+Participação no desenvolvimento como engenheiro de software, contribuindo para a visualização e organização de dados financeiros, 
 com foco em clareza, análise e tomada de decisão.
 
 ## 🚀 **Site Oficial / Serviços**
 
 🔗 https://link4ti.com.br
 
-Portal institucional para apresentação de serviços e projetos em:
-
-- Desenvolvimento de software
-- Sites
-- Aplicativos
+Canal de comunicação profissional para apresentação dos nossos serviços em desenvolvimento de software,
+sites e aplicativos, facilitando o contato e o alinhamento com necessidades reais de negócio.
 
 ## 📫 Contato
 
